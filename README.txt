@@ -19,7 +19,7 @@ WHAT IS IN THE FILE
 Everything. The map, its styling and all of its data are inside the file itself,
 which is why it works offline and why you can copy it anywhere.
 
-This map is 8.7 MB and contains 11 map features.
+This map is 205.6 MB and contains 11 map features.
 
 
 PRIVACY
